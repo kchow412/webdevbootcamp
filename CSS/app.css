@@ -1,0 +1,22 @@
+h2{
+    color:aqua;
+    text-align: center;
+    font-weight: 400;
+    text-decoration: #f3104f underline wavy;
+    letter-spacing: 10px;
+    
+}
+
+button{
+    color: teal;
+    background-color: aliceblue;
+}
+
+p{
+    text-align: left;
+    line-height: 2;
+}
+
+a{
+    text-decoration: none;
+}
